@@ -1,0 +1,10 @@
+<RX_1> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
+<RX_2> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
+<RX_3> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
+<RX_4> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
+<RX_5> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
+<RX_6> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
+<RX_7> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
+<RX_8> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
+<RX_9> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
+<RX_10> C O C ( = O ) c 1 c c ( C ( = O ) O C ) c ( B r ) c c 1 B r
