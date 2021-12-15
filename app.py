@@ -24,6 +24,7 @@ def index():
         path.save(os.path.join('static', 'pathway1.png'))
 
         result = {
+            
         'mol_name': name,
          #'mol_path': 'kya',
         'mol_path': os.path.join('static', 'molecule1.png'),
