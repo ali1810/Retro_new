@@ -4,6 +4,8 @@ import os
 from inference import predict
 import glob
 import PIL
+from PIL import Image
+import io
 app = Flask(__name__)
 Bootstrap(app)
 
