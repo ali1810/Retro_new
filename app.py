@@ -3,6 +3,7 @@ from flask_bootstrap import Bootstrap
 import os
 from inference import predict
 import glob
+import PIL
 app = Flask(__name__)
 Bootstrap(app)
 
